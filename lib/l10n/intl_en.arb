@@ -1,0 +1,19 @@
+{
+    "homeTitle" : "Home Page",
+    "hintTextOfMessage" : "You can write a message here",
+    "hintTextOfPhoneNumber" : "Write the phone number",
+    "hintTextOfButton" : "Start chat on WhatsApp",
+    "settingTitle" : "Setting",
+    "themeMode":"Theme",
+    "language":"Language",
+    "numbersTitle" : "My numbers",
+    "showNumbersButton":"My numbers",
+    "noNumbers":"There are no numbers to which messages have been sent",
+    "phoneNumberIsNull":"Please enter phone number",
+    "phoneNumberIswrong":"Phone number is incorrect",
+    "phoneNumberContainNumbersOnly":"The phone number must contain numbers only",
+    "hintTextOfPhone":"Phone Number",
+    "textOfPhoneDataSend":"Data Time Send",
+    "snackBarOfNumberCopyed":"Phone Number Copied"
+    
+}

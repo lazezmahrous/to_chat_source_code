@@ -1,0 +1,20 @@
+{
+    "homeTitle" : "الصفحة الرئيسية",
+    "hintTextOfMessage" : "يمكنك كتابة رسالة هنا",
+    "hintTextOfPhoneNumber" : "قم بكتابة رقم الهاتف",
+    "hintTextOfButton" : "بدء محادثة علي واتساب",
+    "settingTitle" : "الإعدادات",
+    "themeMode":"المظهر",
+    "language":"اللغة",
+    "numbersTitle" : "أرقامي",
+    "showNumbersButton":"ارقامي",
+    "noNumbers":"لا توجد أرقام تم إرسال رسائل إليها",
+    "phoneNumberIsNull":"من فضلك أدخل رقم الهاتف",
+    "phoneNumberIswrong":"رقم الهاتف غير صحيح",
+    "phoneNumberContainNumbersOnly":"يجب أن يحتوي رقم الهاتف على أرقام فقط",
+    "hintTextOfPhone":"رقم الهاتف",
+    "textOfPhoneDataSend":"وقت الإرسال",
+    "snackBarOfNumberCopyed":"تم نسخ رقم الهاتف"
+
+
+}
